@@ -1,0 +1,2675 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mainlist>
+	<appname>General English 1</appname>
+	<mainlistitem id="1">
+		<title>Unit 1: Where do you come from?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0101A.jpg</image>
+				<audio>NDE0101A.mp3</audio>
+				<viewscript>Kathy: Good morning, Max.  How are you today?
+Max: Fine, thank you. And you?
+Kathy: Just fine. Hello, everyone. My name is Kathy. I come from New York.
+Max: New York?
+Kathy: Yes, New York. Where do you come from, Max?
+Max: I come from San Francisco.
+Kathy: San Francisco?
+Max: That's right. San Francisco, California.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where does Kathy come from?</question>
+						<option>New York</option>
+						<option>San Francisco</option>
+						<option>California</option>
+						<answer>New York</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where does Max come from?</question>
+						<option>San Francisco</option>
+						<option>New York</option>
+						<option>Europe</option>
+						<answer>San Francisco</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Who comes from California?</question>
+						<option>Max</option>
+						<option>Kathy</option>
+						<option>Max and Kathy</option>
+						<answer>Max</answer>
+					</comprehensionitem>
+					<title>Lesson 1-A Comprehension</title>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>_____ name is Kathy.</question>
+						<option>My</option>
+						<option>Me</option>
+						<option>I</option>
+						<answer>My</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I _____ from New York.</question>
+						<option>come</option>
+						<option>comes</option>
+						<option>is coming</option>
+						<answer>come</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Where _____ you come from?</question>
+						<option>do</option>
+						<option>are</option>
+						<option>is</option>
+						<answer>do</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0101B.jpg</image>
+				<audio>NDE0101B.mp3</audio>
+				<viewscript>Wu: Hello.
+Kathy: Hello.
+Wu: My name is Wu Hongli. I come from China.
+Kathy: From China?
+Wu: That's right. I come from China. I have a question for you.
+Kathy: Yes. What is it?
+Wu: Do you come from New York City or New York state?
+Kathy: I come from New York City. And New York City is in New York state. May I ask you a question?
+Wu: OK.
+Kathy: What city do you come from, Mr. Wu?
+Wu: What city?  I come from Beijing.
+Kathy: You come from Beijing?
+Wu: Yes, I come from Beijing.</viewscript>
+				<comprehension>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0101B_Q1.mp3|Does Mr. Wu come from China?</question>
+						<option>Yes, he does.</option>
+						<option>No, he doesn't.</option>
+						<option>Yes, she does.</option>
+						<answer>Yes, he does.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0101B_Q2.mp3|Who comes from New York City?</question>
+						<option>Kathy</option>
+						<option>Mr. Wu</option>
+						<option>Max</option>
+						<answer>Kathy</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0101B_Q3.mp3|What city does Mr. Wu come from?</question>
+						<option>Beijing</option>
+						<option>China</option>
+						<option>New York</option>
+						<answer>Beijing</answer>
+					</comprehensionitem>
+					<title>Lesson 1-B Comprehension</title>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>My</option>
+						<option>name</option>
+						<option>is</option>
+						<option>Kathy.</option>
+						<answer>My name is Kathy.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>I</option>
+						<option>come</option>
+						<option>from</option>
+						<option>China.</option>
+						<answer>I come from China.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>Do</option>
+						<option>you</option>
+						<option>come</option>
+						<option>from</option>
+						<option>New York?</option>
+						<answer>Do you come from New York?</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0101C.jpg</image>
+				<audio>NDE0101C.mp3</audio>
+				<viewscript>Kathy: Now let's check our email. We have an e-mail from Susan Shaw in Chicago. Max, she has a question for you. Her question is: Do you come from Los Angeles?				Max: Do I come from Los Angeles? No, I don't. I come from San Francisco. I don't come from Los Angeles.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where does Susan Shaw live?</question>
+						<option>Chicago</option>
+						<option>New York</option>
+						<option>Los Angeles</option>
+						<answer>Chicago</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Does Max come from Los Angeles?</question>
+						<option>No, he doesn't.</option>
+						<option>Yes, he does.</option>
+						<option>No, he don't.</option>
+						<answer>No, he doesn't.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Does Max come from San Francisco?</question>
+						<option>Yes, he does.</option>
+						<option>No, he doesn't.</option>
+						<option>No, he isn't.</option>
+						<answer>Yes, he does.</answer>
+					</comprehensionitem>
+					<title>Lesson 1-C Comprehension</title>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>_____ you come from Los Angeles?</question>
+						<option>Do</option>
+						<option>Is</option>
+						<option>Are</option>
+						<answer>Do</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I _____ from San Francisco.</question>
+						<option>come</option>
+						<option>coming</option>
+						<option>came</option>
+						<answer>come</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I don't _____  from Los Angeles.</question>
+						<option>come</option>
+						<option>coming</option>
+						<option>came</option>
+						<answer>come</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="2">
+		<title>Unit 2: I'm from Florida.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0102A.jpg</image>
+				<audio>NDE0102A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Robert Harris. Good morning, Mr. Harris.
+Bob: Good morning, Kathy. Please call me Bob.
+Kathy: OK, Bob. I have a question for you.
+Bob: Please, go ahead.
+Kathy: OK. Where are you from?
+Bob: I'm from Florida. Disney World is in Florida.
+Kathy: Is Disney World in Miami?
+Bob: No, it's not. It's in Orlando.  Orlando, Florida.
+Kathy: Are you from Orlando?
+Bob: No, I'm not. I'm not from Orlando. I'm from Miami.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where does Bob Harris come from?</question>
+						<option>Florida</option>
+						<option>New York</option>
+						<option>San Francisco</option>
+						<answer>Florida</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Is Disney World in Florida?</question>
+						<option>Yes, it is.</option>
+						<option>Yes, he is.</option>
+						<option>No, it isn't.</option>
+						<answer>Yes, it is.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Is Bob from Orlando?</question>
+						<option>No, he isn't.</option>
+						<option>No, it isn't.</option>
+						<option>Yes, he is.</option>
+						<answer>No, he isn't.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>_____ from Florida.</question>
+						<option>I'm</option>
+						<option>I</option>
+						<option>Am</option>
+						<answer>I'm</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Where _____ you from?</question>
+						<option>are</option>
+						<option>do</option>
+						<option>come</option>
+						<answer>are</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I'm _____ from Orlando.</question>
+						<option>not</option>
+						<option>am</option>
+						<option>come</option>
+						<answer>not</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0102B.jpg</image>
+				<audio>NDE0102B.mp3</audio>
+				<viewscript>Khalid:	My name is Khalid. I come from Cairo.
+Kathy: You come from Egypt?
+Khalid: That's right. I come from Egypt. Cairo is the capital of Egypt. I have a question for Mr. Harris.
+Bob: Yes. What is it?
+Khalid: You come from Florida. Is Memphis in Florida?
+Bob: No, it's not. It's in Tennessee.</viewscript>
+				<comprehension>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0102B_Q1.mp3|Where does Khalid come from?</question>
+						<option>Egypt</option>
+						<option>Florida</option>
+						<option>Memphis</option>
+						<answer>Egypt</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0102B_Q2.mp3|What is the capital of Egypt?</question>
+						<option>Cairo</option>
+						<option>Memphis</option>
+						<option>Khalid</option>
+						<answer>Cairo</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0102B_Q3.mp3|Is Memphis in Florida?</question>
+						<option>No, it's not.</option>
+						<option>No, he's not.</option>
+						<option>Yes, it is.</option>
+						<answer>No, it's not.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>I</option>
+						<option>come</option>
+						<option>from</option>
+						<option>Egypt.</option>
+						<answer>I come from Egypt.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>Cairo</option>
+						<option>is</option>
+						<option>the</option>
+						<option>capital</option>
+						<option>of</option>
+						<option>Egypt.</option>
+						<answer>Cairo is the capital of Egypt.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>Is</option>
+						<option>Memphis</option>
+						<option>in</option>
+						<option>Florida?</option>
+						<answer>Is Memphis in Florida?</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0102C.jpg</image>
+				<audio>NDE0102C.mp3</audio>
+				<viewscript>Khalid: Ahh, I have another question.
+Bob: Yes?
+Khalid: Is Max from Florida?
+Bob: No, he isn't. He's from California.
+Khalid: California?
+Bob: That's right. He's from California.
+Khalid: Oh. Thank you.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Is Max from Florida?</question>
+						<option>No, he isn't.</option>
+						<option>No, he doesn't.</option>
+						<option>Yes, he does. </option>
+						<answer>No, he isn't.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Does Max come from California?</question>
+						<option>Yes, he does.</option>
+						<option>Yes, he comes.</option>
+						<option>No, he isn't.</option>
+						<answer>Yes, he does.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Who isn't from the United States?</question>
+						<option>Khalid</option>
+						<option>Max</option>
+						<option>Kathy</option>
+						<answer>Khalid</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Max _____ from Los Angeles.</question>
+						<option>isn't</option>
+						<option>Not</option>
+						<option>am not</option>
+						<answer>isn't</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>_____ don't come from California.</question>
+						<option>I</option>
+						<option>He</option>
+						<option>She</option>
+						<answer>I</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>_____  from New York.</question>
+						<option>She's</option>
+						<option>She</option>
+						<option>Is</option>
+						<answer>She's</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="3">
+		<title>Unit 3: Is she from Chicago?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0103A.jpg</image>
+				<audio>NDE0103A.mp3</audio>
+				<viewscript>Kathy: Our guests today are Sara Scott and her sister. Good morning, Sara.
+Max: Hi, Sara.
+Sara: Good morning, Kathy. Hello, Max.
+Kathy: Thank you for coming.
+Sara: Thank you for inviting me. Kathy, I'd like to introduce my sister, Chris.
+Kathy: Hello, Chris. Nice to meet you.
+Chris: Hello, Kathy. It's nice to meet you too.
+Max: Hello, Chris.
+Chris: Hello, Max. Nice to meet you.
+Kathy: OK, Sara. I'd like to ask you a question.
+Sara: Certainly.
+Kathy: What city do you come from?
+Sara: I come from Chicago.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who is Sara's sister?</question>
+						<option>Chris</option>
+						<option>Kathy</option>
+						<option>Max</option>
+						<answer>Chris</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where does Sara come from?</question>
+						<option>Chicago</option>
+						<option>San Francisco</option>
+						<option>Memphis</option>
+						<answer>Chicago</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Is Chicago a city?</question>
+						<option>Yes, it is.</option>
+						<option>No, it isn't.</option>
+						<option>Yes, they are.</option>
+						<answer>Yes, it is.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I'd like _____ my sister.</question>
+						<option>to introduce</option>
+						<option>introduce</option>
+						<option>to introducing</option>
+						<answer>to introduce</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>It's nice _____ you.</question>
+						<option>to meet</option>
+						<option>for meet</option>
+						<option>meet</option>
+						<answer>to meet</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I'd like _____ you a question.</question>
+						<option>to ask</option>
+						<option>ask</option>
+						<option>asking</option>
+						<answer>to ask</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0103B.jpg</image>
+				<audio>NDE0103B.mp3</audio>
+				<viewscript>Kathy: What city do you come from?
+Sara: I come from Chicago.
+Kathy: Chris, are you from Chicago too?
+Chris: Yes, I'm from Chicago. Sara and I are both from Chicago.
+Sara: Yes, we're both from Chicago.
+Max: I'm from San Francisco.
+Chris: Really? I love San Francisco! The Golden Gate Bridge is in San Francisco.
+Max: That's right. What's in Chicago?
+Sara: Well, the Sears Tower is in Chicago.
+Chris: And the Chicago Bulls basketball team is in Chicago.
+Kathy: I love basketball!</viewscript>
+				<comprehension>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0103B_Q1.mp3|Where are Sara and Chris from?</question>
+						<option>Chicago</option>
+						<option>Yes, they are.</option>
+						<option>No, they aren't.</option>
+						<answer>Chicago</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0103B_Q2.mp3|Is the Golden Gate Bridge in Chicago?</question>
+						<option>No, it isn't.</option>
+						<option>No, it is.</option>
+						<option>Yes, it is.</option>
+						<answer>No, it isn't.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0103B_Q3.mp3|Does Chris like San Francisco?</question>
+						<option>Yes, she does.</option>
+						<option>No, she doesn't.</option>
+						<option>Yes, she likes.</option>
+						<answer>Yes, she does.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>What</option>
+						<option>city</option>
+						<option>do</option>
+						<option>you</option>
+						<option>come</option>
+						<option>from?</option>
+						<answer>What city do you come from?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>Are</option>
+						<option>you</option>
+						<option>from</option>
+						<option>Chicago?</option>
+						<answer>Are you from Chicago?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>We</option>
+						<option>are</option>
+						<option>from</option>
+						<option>Chicago.</option>
+						<answer>We are from Chicago.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0103C.jpg</image>
+				<audio>NDE0103C.mp3</audio>
+				<viewscript>Kathy: Let's look at our e-mail.
+Kathy: We have a message from Kim in Korea. Her question is: Where is Chicago? Sara, where is Chicago?
+Sara: Well, it's in the United States. It's in Illinois...  in the state of Illinois. It's between New York and San Francisco.
+Kathy: Sara, Chris, thank you for being on our show.
+Max: Yes, thank you.
+Sara: Thank you for inviting us.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What is Kim's question?</question>
+						<option>Where is Chicago?</option>
+						<option>What is Chicago?</option>
+						<option>Who is Chicago?</option>
+						<answer>Where is Chicago?</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Is Chicago in the United States?</question>
+						<option>Yes, it is.</option>
+						<option>No, it isn't.</option>
+						<option>Yes, it's not.</option>
+						<answer>Yes, it is.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Is Chicago between New York and San Francisco?</question>
+						<option>Yes, it is.</option>
+						<option>Yes, he is.</option>
+						<option>No, he isn't.</option>
+						<answer>Yes, it is.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Chicago is  _____  the United States.</question>
+						<option>in</option>
+						<option>on</option>
+						<option>of</option>
+						<answer>in</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Chicago is _____ New York and San Francisco.</question>
+						<option>between</option>
+						<option>above</option>
+						<option>under</option>
+						<answer>between</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Thank you _____  us.</question>
+						<option>for inviting</option>
+						<option>to invite</option>
+						<option>invite</option>
+						<answer>for inviting</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0103bonus.jpg</image>
+				<audio>NDE0103_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. Today I'm standing in front of the Capitol Building in Washington, D.C. Excuse me, sir?
+Henry: Yes?
+Kent: I'd like to ask you a few questions.
+Henry: OK, go ahead.
+Kent: What's your name?
+Henry: My name is Henry Parker.
+Kent: And where are you from?
+Henry: I'm from Tallahassee.
+Kent: Tallahassee?
+Henry: Yes, Tallahassee.
+Kent: Where is Tallahassee?
+Henry: It's in Florida. Tallahassee is in Florida.
+Kent: Is that a Spanish name?
+Henry: No, it's an Indian name.
+Kent: From India?
+Henry: No, American Indian.
+Kent: Really?
+Henry: Yes, some American cities have Indian names.
+Kent: Some American cities have Spanish names, like Los Angeles and San Francisco.
+Henry: That's right.
+Kent: And a lot of names come from England, like New York and New Hampshire.
+Henry: American names come from all over the world.
+Kent: That's right Well, thank you very much for talking with me.
+Henry: You're very welcome.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where is Henry Parker from?</question>
+						<option>He's from Florida.</option>
+						<option>He comes from Spain.</option>
+						<option>He's from Los Angeles.</option>
+						<answer>He's from Florida.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where does the name Tallahassee come from?</question>
+						<option>It's an American Indian name.</option>
+						<option>It comes from India.</option>
+						<option>It's Spanish.</option>
+						<answer>It's an American Indian name.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Which of these American cities has a Spanish name?</question>
+						<option>San Francisco</option>
+						<option>New York</option>
+						<option>Washington</option>
+						<answer>San Francisco</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Where __________ from?</question>
+						<option>are you</option>
+						<option>come you</option>
+						<option>do come</option>
+						<answer>are you</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Some American cities _________ Spanish names.</question>
+						<option>have</option>
+						<option>has</option>
+						<option>are having</option>
+						<answer>have</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Thank you very much ___________ with me.</question>
+						<option>for talking</option>
+						<option>to talk</option>
+						<option>talking</option>
+						<answer>for talking</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="4">
+		<title>Unit 4: Where is France?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0104A.jpg</image>
+				<audio>NDE0104A.mp3</audio>
+				<viewscript>Max: What's that, Kathy?
+Kathy: Oh, that's a map of Europe. Today's guest comes from Europe.
+Max: Oh, what's his name?
+Kathy: His name is Pierre Dubois.
+Max: Where does he come from?
+Kathy: He's from France. 
+Max: Let's look at that map again.
+Kathy: OK.  Oh, look. Here's Florence.
+Max: Where?
+Kathy: Here. In Italy.
+Max: I see. Where's Rome?
+Kathy: It's here.
+Max: Where's Salzburg? Is Salzburg in Germany?
+Kathy: No, it's not. It's here. It's in Austria.
+Max: Really? I see. It is in Austria.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where does Pierre come from?</question>
+						<option>France</option>
+						<option>Italy</option>
+						<option>Germany</option>
+						<answer>France</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where is Florence?</question>
+						<option>It's in Italy.</option>
+						<option>It's in Germany.</option>
+						<option>It's in France.</option>
+						<answer>It's in Italy.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Is Salzburg in Germany?</question>
+						<option>No, it isn't.</option>
+						<option>Yes, it is.</option>
+						<option>It's in Germany.</option>
+						<answer>No, it isn't.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>_____ name is Pierre Dubois.</question>
+						<option>His</option>
+						<option>Her</option>
+						<option>Its</option>
+						<answer>His</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Pierre _____ France.</question>
+						<option>is from</option>
+						<option>come from</option>
+						<option>is come from</option>
+						<answer>is from</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Salzburg _____ in Germany.</question>
+						<option>isn't</option>
+						<option>are</option>
+						<option>not</option>
+						<answer>isn't</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0104B.jpg</image>
+				<audio>NDE0104B.mp3</audio>
+				<viewscript>Kathy: Pierre, I have a question for you.
+Pierre: Please.
+Kathy: You're French, right?
+Pierre: Yes, that's right. I'm from France.
+Max: Do you come from Paris?
+Pierre: Yes, I'm from Paris.
+Kathy: I love Paris. The Eiffel Tower is in Paris.
+Max: And the Prado Museum is in Paris too, right?
+Pierre: No. The Prado Museum isn't in Paris. It's in Madrid. The Louvre Museum is in Paris.
+Max: Oh, that's right.</viewscript>
+				<comprehension>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0104B_Q1.mp3|What city does Pierre come from?</question>
+						<option>Paris</option>
+						<option>Madrid</option>
+						<option>France</option>
+						<answer>Paris</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0104B_Q2.mp3|Is Pierre French?</question>
+						<option>Yes, he is.</option>
+						<option>Yes, it is.</option>
+						<option>No, he isn't.</option>
+						<answer>Yes, he is.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0104B_Q3.mp3|What museum is in Paris?</question>
+						<option>the Louvre Museum</option>
+						<option>the Prado Museum</option>
+						<option>the Eiffel Tower</option>
+						<answer>the Louvre Museum</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>Do</option>
+						<option>you</option>
+						<option>come</option>
+						<option>from</option>
+						<option>Paris?</option>
+						<answer>Do you come from Paris?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>The</option>
+						<option>Prado Museum</option>
+						<option>isn't</option>
+						<option>in</option>
+						<option>Paris.</option>
+						<answer>The Prado Museum isn't in Paris.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>Where</option>
+						<option>is</option>
+						<option>the</option>
+						<option>Prado</option>
+						<option>Museum?</option>
+						<answer>Where is the Prado Museum?</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0104C.jpg</image>
+				<audio>NDE0104C.mp3</audio>
+				<viewscript>Kathy: Now it's time to read our e-mail. We have an e-mail today from Michael in Los Angeles, California. He writes: "I like Dijon mustard." "Does Dijon mustard come from France?"
+Max: Pierre, does Dijon mustard come from France?
+Pierre: Yes, it does. Dijon is a city in France.
+Kathy: I like cayenne pepper. Is Cayenne in France?
+Pierre: No, it's not. It's in South America.
+Kathy: I see. </viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where does Dijon mustard come from?</question>
+						<option>France</option>
+						<option>Cayenne</option>
+						<option>South America</option>
+						<answer>France</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Is Cayenne a city in France?</question>
+						<option>No, it's not.</option>
+						<option>Yes, it is.</option>
+						<option>It's a kind of pepper.</option>
+						<answer>No, it's not.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Where is Cayenne?</question>
+						<option>in South America</option>
+						<option>in North America</option>
+						<option>in France</option>
+						<answer>in South America</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Paris is _____ France.</question>
+						<option>in</option>
+						<option>to</option>
+						<option>at</option>
+						<answer>in</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Pierre  _____  come from the United States.</question>
+						<option>doesn't</option>
+						<option>isn't</option>
+						<option>does</option>
+						<answer>doesn't</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Dijon mustard  _____  a city in France.</question>
+						<option>comes from</option>
+						<option>come from</option>
+						<option>from</option>
+						<answer>comes from</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="5">
+		<title>Unit 5: Do you speak Spanish?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0105A.jpg</image>
+				<audio>NDE0105A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Maria Alvarez. Good morning, Ms. Alvarez.
+Maria: Good morning. Please call me Maria.
+Kathy: OK. Maria, where do you come from?
+Maria: I come from San Jose.
+Kathy: San Jose, California?
+Maria: That's right. San Jose, California.
+Kathy: Your name is Spanish, isn't it?
+Maria: Yes, that's right. Alvarez is a Spanish name. My parents come from Mexico.
+Max: Do you speak Spanish?
+Maria: Yes, I do. I speak Spanish and English.
+Kathy: Me too. I speak English and Spanish. Max, do you speak Spanish?
+Max: No, I don't. I don't speak Spanish.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who comes from Mexico?</question>
+						<option>Maria's parents</option>
+						<option>Maria</option>
+						<option>Max</option>
+						<answer>Maria's parents</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What languages does Maria speak?</question>
+						<option>Spanish and English</option>
+						<option>English and French</option>
+						<option>English only</option>
+						<answer>Spanish and English</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Does Max speak Spanish?</question>
+						<option>No, he doesn't.</option>
+						<option>Yes, he does.</option>
+						<option>He speaks Spanish and English.</option>
+						<answer>No, he doesn't.</answer>
+					</comprehensionitem>
+					<title>Lesson 1-E Comprehension</title>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Alvarez is a ________ name.</question>
+						<option>Mexico</option>
+						<option>Spanish</option>
+						<option>America</option>
+						<answer>Spanish</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>My parents ________ from Mexico.</question>
+						<option>comes</option>
+						<option>come</option>
+						<option>are coming</option>
+						<answer>come</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I ________ Spanish and English.</question>
+						<option>speaks</option>
+						<option>speaking</option>
+						<option>speak</option>
+						<answer>speak</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0105B.jpg</image>
+				<audio>NDE0105B.mp3</audio>
+				<viewscript>Kathy: Our guest today is Maria Alvarez. She comes from San Jose, California. Her parents come from Mexico. Maria, do your parents speak Spanish?
+Maria: Yes, they do. My mother speaks Spanish and English.
+Kathy: Does your father speak English?
+Maria: Yes, a little. He usually speaks Spanish.</viewscript>
+				<comprehension>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0105B_Q1.mp3|Where do Maria's parents come from?</question>
+						<option>Spain</option>
+						<option>the United States</option>
+						<option>Mexico</option>
+						<answer>Mexico</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0105B_Q2.mp3|Does Maria come from Mexico?</question>
+						<option>No, she doesn't.</option>
+						<option>Yes, she does.</option>
+						<option>Yes, she is.</option>
+						<answer>No, she doesn't.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0105B_Q3.mp3|What language does Maria's father usually speak?</question>
+						<option>English</option>
+						<option>Spanish</option>
+						<option>He doesn't speak English.</option>
+						<answer>Spanish</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>Do</option>
+						<option>your</option>
+						<option>parents</option>
+						<option>speak</option>
+						<option>Spanish?</option>
+						<answer>Do your parents speak Spanish?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>Does</option>
+						<option>father</option>
+						<option>your</option>
+						<option>English?</option>
+						<option>speak</option>
+						<answer>Does your father speak English?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>father</option>
+						<option>speaks</option>
+						<option>usually</option>
+						<option>Maria's</option>
+						<option>Spanish.</option>
+						<answer>Maria's father usually speaks Spanish.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0105C.jpg</image>
+				<audio>NDE0105C.mp3</audio>
+				<viewscript> Kathy: We have time for a telephone call. Hello. You're on the air with New Dynamic English!
+Caller: Hello. My name is Bit. I'm from Thailand. I have a question for Maria.
+Maria: Yes, go ahead.
+Caller: You're from California, right?
+Maria: Yes, that's right.
+Caller: In California, do people speak Spanish?
+Maria: That's a good question. Some people in California speak Spanish. Many people in California speak both Spanish and English.
+Kathy: Bit, I have a question for you.
+Bit: Ahh, for me? Ahh, okay.
+Kathy: Do people in Thailand speak English?
+Caller: In Thailand, people speak Thai, but some people also speak English.
+Kathy: I see. Thank you.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Do some people in California speak Spanish?</question>
+						<option>No, they don't.</option>
+						<option>Yes, they do.</option>
+						<option>Yes, they speak.</option>
+						<answer>Yes, they do.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where is Bit from?</question>
+						<option>Taiwan</option>
+						<option>California </option>
+						<option>Thailand</option>
+						<answer>Thailand</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Do people in Thailand speak English?</question>
+						<option>Some Thai people speak English.</option>
+						<option>No, they don't.</option>
+						<option>Everyone in Thailand speaks English.</option>
+						<answer>Some Thai people speak English.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Kathy  _____ English and Spanish.</question>
+						<option>speaks</option>
+						<option>do speak</option>
+						<option>speaking</option>
+						<answer>speaks</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Do _____ parents speak Spanish?</question>
+						<option>they</option>
+						<option>you</option>
+						<option>your</option>
+						<answer>your</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>In Thailand, people _____ Thai.</question>
+						<option>speaks</option>
+						<option>speak</option>
+						<option>speaking</option>
+						<answer>speak</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="6">
+		<title>Unit 6: Who is she?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0106A.jpg</image>
+				<audio>NDE0106A.mp3</audio>
+				<viewscript>Kathy: Our guests today are Pat Miller and Sandy Steele. Welcome to New Dynamic English.
+Sandy: Thank you. We're happy to be here.
+Kathy: Now, who is Sandy and who is Pat?
+Sandy: I'm Sandy.
+Pat: And I'm Pat. Nice to meet you, Kathy.
+Sandy: Yes, it's nice to be here.
+Kathy: Sandy, Pat, do you both come from the U.S.?
+Sandy: No, we don't. I come from the U.S., but Pat comes from Canada.
+Pat: That's right. I'm from Montreal. Montreal, Canada. But we both live in the U.S. We're students at American University.
+Kathy: Here in Washington, D.C.?
+Pat: Yes, that's right.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Is Sandy a man or a woman?</question>
+						<option>She's a woman.</option>
+						<option>He's a man.</option>
+						<option>She's a man.</option>
+						<answer>He's a man.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Who comes from Canada, Sandy or Pat?</question>
+						<option>Pat</option>
+						<option>Sandy</option>
+						<option>They both come from Canada.</option>
+						<answer>Pat</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Where do Sandy and Pat live?</question>
+						<option>in Canada</option>
+						<option>in Washington, D.C.</option>
+						<option>in Montreal</option>
+						<answer>in Washington, D.C.</answer>
+					</comprehensionitem>
+					<title>Lesson 1-F Comprehension</title>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Sandy comes from the U.S., ______ Pat comes from Canada.</question>
+						<option>or</option>
+						<option>but</option>
+						<option>for</option>
+						<answer>but</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Sandy and Pat both ________ in the United States.</question>
+						<option>lives</option>
+						<option>live</option>
+						<option>living</option>
+						<answer>live</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>They ________  both students at American University.</question>
+						<option>do</option>
+						<option>have</option>
+						<option>are</option>
+						<answer>are</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0106B.jpg</image>
+				<audio>NDE0106B.mp3</audio>
+				<viewscript>Kathy: Where do you come from, Sandy?
+Sandy: Texas. I come from Dallas, Texas.
+Kathy: Pat, in Montreal, do people speak French?
+Pat: Yes, they do. People speak French in Montreal.
+Kathy: Do you speak French?
+Pat: Yes, I do. I speak French and English.
+Kathy: How about you, Sandy? Do you speak French?
+Sandy: No, I don't. I speak English and a little Spanish. ... but I don't speak French.</viewscript>
+				<comprehension>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0106B_Q1.mp3|Where does Sandy come from?</question>
+						<option>Texas</option>
+						<option>Montreal</option>
+						<option>France</option>
+						<answer>Texas</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0106B_Q2.mp3|Does Pat speak French?</question>
+						<option>Yes, she does.</option>
+						<option>No, she doesn't.</option>
+						<option>Yes, she do speak.</option>
+						<answer>Yes, she does.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0106B_Q3.mp3|What language doesn't Sandy speak?</question>
+						<option>French</option>
+						<option>English</option>
+						<option>Spanish</option>
+						<answer>French</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>People</option>
+						<option>French</option>
+						<option>in</option>
+						<option>speak</option>
+						<option>Montreal.</option>
+						<answer>People speak French in Montreal.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>speak</option>
+						<option>you</option>
+						<option>French?</option>
+						<option>Do</option>
+						<answer>Do you speak French?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>speak</option>
+						<option>don't</option>
+						<option>French.</option>	
+						<option>I</option>
+						<answer>I don't speak French.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0106C.jpg</image>
+				<audio>NDE0106C.mp3</audio>
+				<viewscript>Caller: Hello. My name is Samantha. I'm from Denver.
+Kathy: Yes, go ahead.
+Caller: Sandy, Pat. Which one of you is from Canada?
+Pat: I am. I'm from Canada.
+Caller: OK. I have a question for you.
+Pat: Yes....
+Caller: People speak French in Montreal, right?
+Pat: Yes, that's right.
+Caller: Do people speak English in Montreal?
+Pat: That's a good question. In Montreal many people speak both French and English.
+Caller: I see. Thank you.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Pat is from Canada, isn't she?</question>
+						<option>Yes, she is.</option>
+						<option>Yes, she isn't.</option>
+						<option>No, she isn't.</option>
+						<answer>Yes, she is.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Do many people in Montreal speak English?</question>
+						<option>Yes, they do.</option>
+						<option>No, they don't. </option>
+						<option>Everyone speaks French.</option>
+						<answer>Yes, they do.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Do all Canadian people speak French?</question>
+						<option>No, they don't.</option>
+						<option>Yes, they do.</option>
+						<option>Yes, except in Montreal.</option>
+						<answer>No, they don't.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Pat   _____ Montreal, and Sandy comes from Texas.</question>
+						<option>are from</option>
+						<option>come from</option>
+						<option>comes from</option>
+						<answer>comes from</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Pat and Sandy both live _____ Washington, D.C.</question>
+						<option>at</option>
+						<option>in</option>
+						<option>on</option>
+						<answer>in</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Sandy speaks English and a little Spanish, but he _____ speak French.</question>
+						<option>doesn't</option>
+						<option>don't</option>
+						<option>do</option>
+						<answer>doesn't</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0106bonus.jpg</image>
+				<audio>NDE0106_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. Today I'm standing in a children's playground in Washington, D.C. Excuse me?
+Barbara: Yes?
+Kent: Are these your children?
+Barbara: My children? Well, yes and no. I'm not their mother. But I do take care of them. I'm a childcare worker.
+Kent: Oh, I see.
+Barbara: Their parents are diplomats. They come from all over the world.
+Kent: Oh, they're so cute!
+Barbara: Yes, aren't they? Ying is from China. Mohammed is from Saudi Arabia. Hans and Krista come from Germany. And Michael is from Sierra Leone.
+Kent: Sierra Leone. Where's that?
+Barbara: It's in Africa.
+Kent: I see. Do they all speak English?
+Barbara: Yes, they do. They speak English as a second language. Ying speaks Chinese and English. Mohammed speaks Arabic and English. Hans and Krista speak German and English. And Michael speaks English and French.
+Kent: Do you speak all those languages?
+Barbara No, I don't. I only speak English. Oh excuse me! Hans, come back here! Hans, Hans... I have to go!
+Kent: OK. Nice talking to you.</viewscript>
+			<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does the woman do?</question>
+						<option>She's diplomat.</option>
+						<option>She is the children's mother.</option>
+						<option>She's a childcare worker.</option>
+						<answer>She's a childcare worker.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Do the children speak English?</question>
+						<option>No, they don't.</option>
+						<option>Yes, they do.</option>
+						<option>Some of them do; some of them don't.</option>
+						<answer>Yes, they do.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What languages does the woman speak?</question>
+						<option>Chinese and Arabic</option>
+						<option>She speaks six languages.</option>
+						<option>English</option>
+						<answer>English</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>________ parents are diplomats.</question>
+						<option>They</option>
+						<option>They are</option>
+						<option>Their</option>
+						<answer>Their</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Hans and Krista ________ from Germany.</question>
+						<option>comes</option>
+						<option>come</option>
+						<option>are come</option>
+						<answer>come</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Do they all ________ English?</question>
+						<option>speak</option>
+						<option>speaks</option>
+						<option>speaking</option>
+						<answer>speak</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="7">
+		<title>Unit 7: I have one child.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0107A.jpg</image>
+				<audio>NDE0107A.mp3</audio>
+				<viewscript>Kathy: Our guest is Richard Chen. Good morning, Mr. Chen. Welcome to New Dynamic English.
+Richard: Thank you. Please call me Richard.
+Kathy: OK. Please call me Kathy.
+Richard: OK, Kathy.
+Kathy: You're the Teacher of the Year.  Congratulations.
+Richard: Thank you. 
+Kathy: What do you teach?
+Richard: I teach science and math.
+Kathy: Do you like it?
+Richard: Yes, I do. I love teaching.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Richard do?</question>
+						<option>He's a teacher.</option>
+						<option>He's a doctor.</option>
+						<option>He's married.</option>
+						<answer>He's a teacher.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What does he teach?</question>
+						<option>science</option>
+						<option>science and math</option>
+						<option>math</option>
+						<answer>science and math</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Does Richard like his job?</question>
+						<option>No, he doesn't.</option>
+						<option>Sometimes he does. Sometimes he doesn't.</option>
+						<option>Yes, he does.</option>
+						<answer>Yes, he does.</answer>
+					</comprehensionitem>
+					<title>Lesson 2-A Comprehension</title>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>What ______ you teach?</question>
+						<option>are</option>
+						<option>do</option>
+						<option>does</option>
+						<answer>do</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I _____ science and math.</question>
+						<option>teach</option>
+						<option>teaches</option>
+						<option>am teach</option>
+						<answer>teach</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>_____ you like your job?</question>
+						<option>Are</option>
+						<option>Do</option>
+						<option>Does</option>
+						<answer>Do</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0107B.jpg</image>
+				<audio>NDE0107B.mp3</audio>
+				<viewscript>Kathy: Richard, tell us a little about your family.
+Richard: Well, I'm married and I have one child.
+Kathy: A boy or a girl?
+Richard: He's a boy.
+Kathy: What's his name?
+Richard: His name is Jason.
+Kathy: How old is he?
+Richard: He's five years old.
+Kathy: What's your wife's name?
+Richard: Her name is Jenny.
+Kathy: Jenny?
+Richard: That's right. Jenny. She and I both come from Hong Kong.
+Kathy: Thank you, Richard.</viewscript>
+				<comprehension>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0107B_Q1.mp3|Is Richard married?</question>
+						<option>Yes, he does.</option>
+						<option>Yes, he is.</option>
+						<option>No, he doesn't.</option>
+						<answer>Yes, he is.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0107B_Q2.mp3|How many children does Richard have?</question>
+						<option>two</option>
+						<option>none</option>
+						<option>one</option>
+						<answer>one</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0107B_Q3.mp3|How old is Richard's son?</question>
+						<option>5 years old</option>
+						<option>Jason</option>
+						<option>a boy</option>
+						<answer>5 years old</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>is</option>
+						<option>five</option>
+						<option>years</option>
+						<option>old.</option>
+						<option>He</option>
+						<answer>He is five years old.</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>What's</option>
+						<option>wife's</option>
+						<option>your</option>
+						<option>name?</option>
+						<answer>What's your wife's name?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>Her</option>
+						<option>is</option>
+						<option>name</option>	
+						<option>Jenny.</option>
+						<answer>Her name is Jenny.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0107C.jpg</image>
+				<audio>NDE0107C.mp3</audio>
+				<viewscript>Kathy: We're back with Richard Chen. He's married and has one son. Richard, some of our listeners have questions for you. Let's take a telephone call. Hello.  You're on the air with New Dynamic English.
+Rachel: Hello. My name is Rachel. I'm from New Orleans. I have a question for Richard.
+Richard: Yes, go ahead.
+Rachel: I have three daughters in my family. Do you have any daughters?
+Richard: No, I don't have any daughters. I have one child, a son.
+Rachel: I see.  Does your boy go to school?
+Richard: Yes, he does. He's in kindergarten.
+Rachel: Does he like school?
+Richard: Yes, he does. He loves his teacher.
+Rachel: I see. Thank you.
+Kathy: Thank you for calling.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where is Rachel from?</question>
+						<option>New York</option>
+						<option>New Orleans</option>
+						<option>New Jersey</option>
+						<answer>New Orleans</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How many daughters does Richard have?</question>
+						<option>three</option>
+						<option>one </option>
+						<option>none</option>
+						<answer>none</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Does Richard's son go to school?</question>
+						<option>No, he doesn't.</option>
+						<option>Yes, he is.</option>
+						<option>Yes, he does.</option>
+						<answer>Yes, he does.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I _____ from New Orleans.</question>
+						<option>am</option>
+						<option>is</option>
+						<option>are</option>
+						<answer>am</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I don't _____ any daughters.</question>
+						<option>have</option>
+						<option>has</option>
+						<option>had</option>
+						<answer>have</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>_____ your boy like school?</question>
+						<option>Does</option>
+						<option>Do</option>
+						<option>Is</option>
+						<answer>Does</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="8">
+		<title>Unit 8: What do you do?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0108A.jpg</image>
+				<audio>NDE0108A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Sara Scott. Good morning, Sara.
+Sara: Good morning, Kathy.  Nice to see you again.
+Kathy: It's nice to see you too. Welcome back to our show.
+Sara: I'm happy to be here.
+Kathy: Sara, I have a question for you.
+Sara: Yes?
+Kathy: You're from Chicago?
+Sara: That's right. I'm from Chicago.
+Kathy: What do you do in Chicago? What kind of job do you have?
+Sara: I'm a doctor.
+Kathy: A doctor?
+Sara: Yes, I work in a hospital. I work in a large hospital in Chicago.
+Kathy: Do you like your work?
+Sara: Yes, I do. I work hard but I like it.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Sara do?</question>
+						<option>She lives in Chicago.</option>
+						<option>She's a doctor.</option>
+						<option>She likes her work.</option>
+						<answer>She's a doctor.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where does she work?</question>
+						<option>in a small hospital</option>
+						<option>in a hospital outside of Chicago</option>
+						<option>in a large hospital</option>
+						<answer>in a large hospital</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Does she work hard?</question>
+						<option>Yes, she works.</option>
+						<option>Yes, she does.</option>
+						<option>She likes her work.</option>
+						<answer>Yes, she does.</answer>
+					</comprehensionitem>
+					<title>Lesson 2-B Comprehension</title>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>What ______ in Chicago?</question>
+						<option>do you do</option>
+						<option>you do</option>
+						<option>do you</option>
+						<answer>do you do</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>What kind of job do you _____?</question>
+						<option>have</option>
+						<option>has</option>
+						<option>having</option>
+						<answer>have</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>_____ you like your work?</question>
+						<option>Are</option>
+						<option>Do</option>
+						<option>Have</option>
+						<answer>Do</answer>
+					</grammaritem>
+				</grammar>	
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0108B.jpg</image>
+				<audio>NDE0108B.mp3</audio>
+				<viewscript>Kristen: Hello. My name is Kristen. I'm from Massachusetts.
+Kathy: What city are you from?
+Kristen: I'm from Boston. I have a question for Sara.
+Sara: I'm listening.
+Kristen: I work in Boston but I don't live in the city. I live outside of the city, in the suburbs. Boston is a very expensive city.
+Max: What's your question?
+Kristen: You work in Chicago.  Do you live in Chicago?
+Sara: Yes, I do.</viewscript>
+				<comprehension>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0108B_Q1.mp3|Where does Kristen work?</question>
+						<option>in Chicago</option>
+						<option>in a hospital</option>
+						<option>in Boston</option>
+						<answer>in Boston</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0108B_Q2.mp3|Where does Kristen live?</question>
+						<option>outside of Boston</option>
+						<option>in Boston</option>
+						<option>in Chicago</option>
+						<answer>outside of Boston</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0108B_Q3.mp3|Where does Sara live and work?</question>
+						<option>in Chicago</option>
+						<option>in Boston</option>
+						<option>in the suburbs</option>
+						<answer>in Chicago</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>are</option>
+						<option>you</option>
+						<option>from?</option>
+						<option>city</option>
+						<option>What</option>
+						<answer>What city are you from?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>I</option>
+						<option>live</option>
+						<option>in</option>
+						<option>don't</option>
+						<option>Boston.</option>
+						<answer>I don't live in Boston.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>Boston</option>
+						<option>very</option>
+						<option>expensive</option>	
+						<option>is</option>
+						<option>a</option>
+						<option>city.</option>
+						<answer>Boston is a very expensive city.</answer>
+					</grammaritem>
+				</grammar>	
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0108C.jpg</image>
+				<audio>NDE0108C.mp3</audio>
+				<viewscript>Kristen: Where do you live?
+Sara: I live in an apartment building.
+Kristen: Do you live alone?
+Sara: No, I don't. I live with my sister.
+Kristen: Is your apartment big?
+Sara: Yes, it is. It's big. Unfortunately, it's also expensive.
+Kristen: Expensive? Is it very expensive?
+Sara: Yes, it is. But it's very large and comfortable.
+Kristen: That's nice.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where does Sara live?</question>
+						<option>in an apartment building</option>
+						<option>alone</option>
+						<option>in a house</option>
+						<answer>in an apartment building</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Who does Sara live with?</question>
+						<option>no one</option>
+						<option>her sister </option>
+						<option>her brother</option>
+						<answer>her sister</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What is her apartment like?</question>
+						<option>It's very big, but it's expensive.</option>
+						<option>It's big, and not very expensive.</option>
+						<option>It's not very large or comfortable.</option>
+						<answer>It's very big, but it's expensive.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I live _____ an apartment building.</question>
+						<option>in</option>
+						<option>on</option>
+						<option>at</option>
+						<answer>in</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>______ your apartment big?</question>
+						<option>Is</option>
+						<option>Has</option>
+						<option>Are</option>
+						<answer>Is</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>The apartment is very large and ___________.</question>
+						<option>comfort</option>
+						<option>is comfort</option>
+						<option>comfortable</option>
+						<answer>comfortable</answer>
+					</grammaritem>
+				</grammar>	
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="9">
+		<title>Unit 9: Where do you live?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0109A.jpg</image>
+				<audio>NDE0109A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Henry Thornton. Good morning, Mr. Thornton.
+Henry: Good morning, Kathy.
+Kathy: Mr. Thornton, I'd like to ask you a question.
+Henry: Yes.
+Kathy: What do you do?
+Henry: What do I do?  I'm a businessman.
+Kathy: Where do you work?  I mean, who do you work for?
+Henry: I work for myself. I have my own company.
+Kathy: What's the name of your company?
+Henry: It's Titanic Limited.
+Kathy: Titanic? How do you spell that?
+Henry: T-I-T-A-N-I-C. Like the ship.
+Kathy: What do you do?
+Henry: What do I do?  I'm the president.
+Kathy: The president?
+Henry: Yes, I'm the president of my company.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who does Henry work for?</question>
+						<option>He works for his own company.</option>
+						<option>He works for a shipping company.</option>
+						<option>He doesn't work.</option>
+						<answer>He works for his own company.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What is the name of Henry's company?</question>
+						<option>Titanic Limited</option>
+						<option>Limited Company</option>
+						<option>Henry Thornton Inc.</option>
+						<answer>Titanic Limited</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>What is Henry's position at the company?</question>
+						<option>president</option>
+						<option>vice president</option>
+						<option>business manager</option>
+						<answer>president</answer>
+					</comprehensionitem>
+					<title>Lesson 2-C Comprehension</title>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Who _______ work for?</question>
+						<option>do you</option>
+						<option>you do</option>
+						<option>are you</option>
+						<answer>do you</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I work for __________.</question>
+						<option>me</option>
+						<option>my self</option>
+						<option>my job</option>
+						<answer>my self</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>_________ the name of your company?</question>
+						<option>What</option>
+						<option>Is</option>
+						<option>What's</option>
+						<answer>What's</answer>
+					</grammaritem>
+				</grammar>	
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0109B.jpg</image>
+				<audio>NDE0109B.mp3</audio>
+				<viewscript>Kathy: Where is your company located?
+Henry: It's in Seattle.
+Kathy: Do you live in Seattle?
+Henry: Yes, I do.
+Kathy: With your family?
+Henry: Well, my mother and father live in Seattle. But I don't live with them!
+Kathy: Where do you live?
+Henry: I live in a large house. A very expensive house!</viewscript>
+				<comprehension>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0109B_Q1.mp3|Where is Henry's company located?</question>
+						<option>in Chicago</option>
+						<option>in Seattle</option>
+						<option>in San Francisco</option>
+						<answer>in Seattle</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0109B_Q2.mp3|Does Henry live with his parents??</question>
+						<option>He lives with his father.</option>
+						<option>No, he doesn't.</option>
+						<option>Yes, he does.</option>
+						<answer>No, he doesn't.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0109B_Q3.mp3|Where does Henry live?</question>
+						<option>in a large house</option>
+						<option>at his company</option>
+						<option>in an apartment</option>
+						<answer>in a large house</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>Where</option>
+						<option>your</option>
+						<option>is</option>
+						<option>located?</option>
+						<option>company</option>
+						<answer>Where is your company located?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>My</option>
+						<option>mother</option>						<option>and father</option>
+						<option>live</option>
+						<option>in</option>
+						<option>Seattle.</option>
+						<answer>My mother and father live in Seattle.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>I</option>
+						<option>live</option>
+						<option>don't</option>	
+						<option>with</option>
+						<option>my</option>
+						<option>parents.</option>
+						<answer>I don't live with my parents.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0109C.jpg</image>
+				<audio>NDE0109C.mp3</audio>
+				<viewscript>Caller: Hello. My name is Susan. I'm from Boston. I have a question for Mr. Thornton.
+Henry: Yes, go ahead.
+Caller: Are you married?
+Henry: Excuse me?
+Caller: Are you married?
+Henry: No. No, I'm not.
+Caller: Do you live alone?
+Henry: Yes, I do.
+Caller: No wife? No girlfriend?
+Henry: That's right. But I do have a lot of money.
+Caller: Well, good luck.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Is Henry single?</question>
+						<option>No, he isn't.</option>
+						<option>Yes, he is.</option>
+						<option>He's married.</option>
+						<answer>Yes, he is.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Who does Henry live with?</question>
+						<option>He lives alone.</option>
+						<option>He lives with his parents.</option>
+						<option>He lives with his wife.</option>
+						<answer>He lives alone.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Is Henry rich?</question>
+						<option>Yes, he is.</option>
+						<option>No, he isn't.</option>
+						<option>He doesn't have much money.</option>
+						<answer>Yes, he is.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Does Henry _______ with his girlfriend?</question>
+						<option>is living</option>
+						<option>live</option>
+						<option>Lives</option>
+						<answer>live</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Henry _______ in a very expensive house.</question>
+						<option>living</option>
+						<option>lives</option>
+						<option>live</option>
+						<answer>lives</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Henry's parents don't _______ with him.</question>
+						<option>lives</option>
+						<option>live</option>
+						<option>are living</option>
+						<answer>live</answer>
+					</grammaritem>
+				</grammar>	
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0109bonus.jpg</image>
+				<audio>NDE0109_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. Today I'm standing on Pennsylvania Avenue in Washington, D.C. Excuse me, sir?
+Man: Yes.
+Kent: I'd like to ask you a few questions.
+Man: Why?
+Kent: This is for the New Dynamic English radio show.
+Man: Oh, I see. OK, go ahead.
+Kent: Can you tell our listeners what you do?
+Man: What do I do? I'm a painter.
+Kent: A painter? So, do you paint pictures?
+Man: No, I paint houses.
+Kent: Do you like your work?
+Man: Yes, I do. I like painting big houses for important people.
+Kent: You have a lot of white paint in your truck.
+Man: That's right. Right now, I'm painting that big white house across the street.
+Kent: That big white house?
+Man: That's right.
+Kent: Do you mean...? That house belongs to the President! That's theWhite House.
+Man: That's right. And it does need painting!
+Kent: I see. Well, thank you very much.
+Man: You're very welcome.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does the man paint?</question>
+						<option>houses</option>
+						<option>pictures</option>
+						<option>streets</option>
+						<answer>houses</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What color paint does the man have in his truck?</question>
+						<option>many colors</option>
+						<option>white</option>
+						<option>He doesn't have any paint.</option>
+						<answer>white</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Who lives in the White House?</question>
+						<option>the President of the United States</option>
+						<option>the painter</option>
+						<option>We don't know.</option>
+						<answer>the President of the United States</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I like __________ houses for important people.</question>
+						<option>paint</option>
+						<option>painting</option>
+						<option>to painting</option>
+						<answer>painting</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>________painting that house across the street.</question>
+						<option>I'm</option>
+						<option>I</option>
+						<option>he</option>
+						<answer>I'm</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>That house _____________ the President.</question>
+						<option>is belong to</option>
+						<option>belongs to</option>
+						<option>belong</option>
+						<answer>belongs to</answer>
+					</grammaritem>
+				</grammar>	
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="10">
+		<title>Unit 10: My wife's name is Sandra.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0110A.jpg</image>
+				<audio>NDE0110A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Robert Harris. Welcome back, Bob.
+Bob: Hi, Kathy. Hi, Max. Nice to see you again.
+Max: Good to see you again, Bob.
+Kathy: Bob, you're married, aren't you?
+Bob: Yes, I am.
+Kathy: What's your wife's name?
+Bob: Her name is Sandra.
+Kathy: What does she do?
+Bob: She's a music teacher. She teaches piano.
+Kathy: Where does she work?
+Bob: She works at home.</viewscript>
+			<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who is Bob married to?</question>
+						<option>Sandra</option>
+						<option>Sara</option>
+						<option>He isn't married.</option>
+						<answer>Sandra</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What does Bob's wife do?</question>
+						<option>She's a music teacher.</option>
+						<option>She's a math teacher.</option>
+						<option>She's a professional musician.</option>
+						<answer>She's a music teacher.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Where does Sandra work?</question>
+						<option>at home</option>
+						<option>at a music school</option>
+						<option>at a university</option>
+						<answer>at home</answer>
+					</comprehensionitem>
+					<title>Lesson 2-D Comprehension</title>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>What's your _______ name?</question>
+						<option>wife</option>
+						<option>wifes</option>
+						<option>wife's</option>
+						<answer>wife's</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>She ____ piano.</question>
+						<option>teacher</option>
+						<option>teaches</option>
+						<option>teach</option>
+						<answer>teaches</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>_______ does she work?</question>
+						<option>Who</option>
+						<option>What</option>
+						<option>Where</option>
+						<answer>Where</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0110B.jpg</image>
+				<audio>NDE0110B.mp3</audio>
+				<viewscript>Bob: She's a music teacher. She teaches piano.
+Kathy: Where does she work?
+Bob: She works at home.
+Kathy: In your home?
+Bob: Yes, we have a small house in Miami. Her students come to our house.
+Kathy: I see. Do you have any children?
+Bob: Yes, we do. We have two children, a girl and a boy.
+Kathy: What are their names?
+Bob: Collette and John. Our daughter's name is Collette, and our son's name is John.</viewscript>
+			<comprehension>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0110B_Q1.mp3|Where does Sandra teach?</question>
+						<option>piano</option>
+						<option>at home</option>
+						<option>children</option>
+						<answer>at home</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0110B_Q2.mp3|How many children do Bob and Sandra have?</question>
+						<option>one</option>
+						<option>two</option>
+						<option>none</option>
+						<answer>two</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0110B_Q3.mp3|What is their daughter's name?</question>
+						<option>Collette</option>
+						<option>John</option>
+						<option>a girl</option>
+						<answer>Collette</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>children?</option>
+						<option>you</option>
+						<option>Do</option>
+						<option>have</option>
+						<option>any</option>
+						<answer>Do you have any children?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>son's</option>
+						<option>Our</option>
+						<option>John.</option>
+						<option>is</option>
+						<option>name</option>
+						<answer>Our son's name is John.</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>have</option>
+						<option>We</option>
+						<option>Miami.</option>	
+						<option>in</option>
+						<option>a small</option>
+						<option>house</option>
+						<answer>We have a small house in Miami.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0110C.jpg</image>
+				<audio>NDE0110C.mp3</audio>
+				<viewscript>Michelle: Hello. My name is Michelle. I'm from San Diego.
+Kathy: Hello, Michelle.
+Michelle: I'd like to ask Mr. Harris a question.
+Bob: Yes, what is it?
+Michelle: What do you do? Where do you work?
+Bob: I work at the post office.
+Michelle: At the post office?
+Bob: Yes. I'm a postal worker.
+Michelle: Do you like your work?
+Bob: Ah...  sometimes I do, sometimes I don't. And unfortunately my salary is low.
+Michelle: Do you work hard?
+Bob: Oh, yes, I work very hard.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Bob do?</question>
+						<option>He is a police officer.</option>
+						<option>He makes posters.</option>
+						<option>He works at the post office.</option>
+						<answer>He works at the post office.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Does he like his work?</question>
+						<option>No, he doesn't.</option>
+						<option>Yes, he does.</option>
+						<option>Sometimes he does; sometimes he doesn't.</option>
+						<answer>Sometimes he does; sometimes he doesn't.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Is his salary high or low?</question>
+						<option>His salary is high.</option>
+						<option>He gets paid very well.</option>
+						<option>His salary is low.</option>
+						<answer>His salary is low.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>_______  salary is low.</question>
+						<option>Bob's</option>
+						<option>Bob</option>
+						<option>Bob has</option>
+						<answer>Bob's</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>He works _______ hard.</question>
+						<option>very</option>
+						<option>ever</option>
+						<option>every</option>
+						<answer>very</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>_______ do you do?</question>
+						<option>What</option>
+						<option>Where</option>
+						<option>Who</option>
+						<answer>What</answer>
+					</grammaritem>
+				</grammar>	
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="11">
+		<title>Unit 11: I'm 24 years old.</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0111A.jpg</image>
+				<audio>NDE0111A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Chris Scott. Good morning, Chris.
+Chris: Hi, Kathy. Hello, Max. Thanks for having me back.
+Kathy: Our pleasure.
+Max: It's nice to see you again.
+Kathy: Where's your sister today? Where's Sara?
+Chris: She's in Baltimore. She's at Johns Hopkins Hospital.
+Max: Is she sick?
+Chris: No, she isn't. She's a doctor. She likes to visit hospitals.
+Max: That's right. She's a doctor.</viewscript>
+			<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Who is Chris's sister?</question>
+						<option>Sandra</option>
+						<option>Sara</option>
+						<option>Sally</option>
+						<answer>Sara</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Where is her sister today?</question>
+						<option>at a hospital.</option> 
+						<option>at a university.</option>
+						<option>at home.</option>
+						<answer>at a hospital.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Is Sara sick?</question>
+						<option>No, she isn't.</option>
+						<option>Yes, she is.</option>
+						<option>She is visiting a sick friend.</option>
+						<answer>No, she isn't.</answer>
+					</comprehensionitem>
+					<title>Lesson 2-E Comprehension</title>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>________ your sister today?</question>
+						<option>Where</option>
+						<option>Where's</option>
+						<option>Where are</option>
+						<answer>Where's</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Is _______ sick?</question>
+						<option>she</option>
+						<option>her</option>
+						<option>you</option>
+						<answer>she</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>She's _____ Baltimore.</question>
+						<option>in</option>
+						<option>at</option>
+						<option>to</option>
+						<answer>in</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0111B.jpg</image>
+				<audio>NDE0111B.mp3</audio>
+				<viewscript>Kathy: What do you do, Chris?
+Chris: I'm a dancer.
+Kathy: A dancer?
+Chris: Yes, a ballet dancer.
+Kathy: Really? Do you like it?
+Chris: Oh, I love it! I love to dance.
+Kathy: Do you work hard?
+Chris: Yes, I do. I practice every day. I want to be a great dancer.</viewscript>
+			<comprehension>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0111B_Q1.mp3|What does Chris do?</question>
+						<option>She teaches ballet.</option>
+						<option>She's a dancer.</option>
+						<option>She likes to go to dance clubs.</option>
+						<answer>She's a dancer.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0111B_Q2.mp3|How does she feel about dancing?</question>
+						<option>She likes it a little.</option>
+						<option>She loves to dance.</option>
+						<option>She doesn't like to dance.</option>
+						<answer>She loves to dance.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0111B_Q3.mp3|How often does she practice?</question>
+						<option>several times a week</option>
+						<option>every other day </option>
+						<option>every day</option>
+						<answer>every day</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>day?</option>
+						<option>you</option>
+						<option>Do</option>
+						<option>every</option>
+						<option>practice</option>
+						<answer>Do you practice every day?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>Do</option>
+						<option>to</option>
+						<option>like</option>
+						<option>dance?</option>
+						<option>you</option>
+						<answer>Do you like to dance?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>I</option>
+						<option>to be</option>
+						<option>want</option>	
+						<option>great</option>
+						<option>a</option>
+						<option>dancer.</option>
+						<answer>I want to be a great dancer.</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0111C.jpg</image>
+				<audio>NDE0111C.mp3</audio>
+				<viewscript>Helen: Who is older, you or your sister?
+Chris: My sister is older. She's twenty-eight years old.
+Helen: How old are you?
+Chris: I'm twenty-four years old.
+Helen: You're both single, aren't you?
+Chris: That's right. My sister has a boyfriend. He's a pilot. He's really cute!
+Helen: What about you?
+Chris: Well, my best friend is Woody.
+Helen: Woody? Is he your boyfriend?
+Chris: No, he isn't. He's not my boyfriend. He's my dog.
+Helen: Your dog?
+Chris: Yes, he's my pet dog. I love him!</viewscript>
+			<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>How old is Chris's sister?</question>
+						<option>She's 24 years old.</option>
+						<option>She's 28 years old.</option>
+						<option>She's the same age as Chris.</option>
+						<answer>She's 28 years old.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>Who is a pilot?</question>
+						<option>Chris's boyfriend</option>
+						<option>Chris's sister</option>
+						<option>Sara's boyfriend</option>
+						<answer>Sara's boyfriend</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Who is Woody?</question>
+						<option>Chris's dog</option>
+						<option>Sara's boyfriend</option>
+						<option>Chris's brother</option>
+						<answer>Chris's dog</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>Who is _______, you or your sister?</question>
+						<option>old</option>
+						<option>older</option>
+						<option>more old</option>
+						<answer>older</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>How _______ are you?</question>
+						<option>years</option>
+						<option>old</option>
+						<option>age</option>
+						<answer>old</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>My sister ______ a boyfriend.</question>
+						<option>has</option>
+						<option>is</option>
+						<option>does</option>
+						<answer>has</answer>
+					</grammaritem>
+				</grammar>	
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+	<mainlistitem id="12">
+		<title>Unit 12: Do you like your job?</title>
+		<lesson>
+			<lessonitem id="1">
+				<title>Lesson A</title>
+				<image>NDE0112A.jpg</image>
+				<audio>NDE0112A.mp3</audio>
+				<viewscript>Kathy: Our guest today is Maria Alvarez. Good morning, Maria.
+Maria: Good morning, Kathy.
+Kathy: Yes, welcome back to our show.
+Maria: Thank you.
+Kathy: I have a question for you.
+Maria: Yes, what is it?
+Kathy: What do you do?
+Maria: I'm a store manager.
+Kathy: A store manager?
+Maria: Yes, that's right. I manage a clothing store.
+Kathy: Is it a large store?
+Maria: Yes, it is.
+Kathy: Where is it? Where is it located?
+Maria: In San Jose. It's in downtown San Jose.
+Kathy: Is the clothing expensive?
+Maria: No, not really. Most of our clothes are not very expensive</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>What does Maria do?</question>
+						<option>She manages a clothing store.</option>
+						<option>She shops at clothing stores.</option>
+						<option>She makes clothing.</option>
+						<answer>She manages a clothing store.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How large is the store?</question>
+						<option>not very large</option>
+						<option>large</option>
+						<option>small</option>
+						<answer>large</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Does the store sell expensive clothing?</question>
+						<option>Most of the clothes are expensive.</option>
+						<option>All of the clothes are expensive.</option>
+						<option>Most of the clothes are not very expensive.</option>
+						<answer>Most of the clothes are not very expensive.</answer>
+					</comprehensionitem>
+					<title>Lesson 2-F Comprehension</title>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I ________ a clothing store.</question>
+						<option>manager</option>
+						<option>work</option>
+						<option>manage</option>
+						<answer>manage</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>Is the __________ expensive?</question>
+						<option>cloth</option>
+						<option>clothes</option>
+						<option>clothing</option>
+					<answer>clothing</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>Most of our clothes _______ not expensive.</question>
+						<option>is</option>
+						<option>very</option>
+						<option>are</option>
+						<answer>are</answer>
+					</grammaritem>
+				</grammar>
+			</lessonitem>
+			<lessonitem id="2">
+				<title>Lesson B</title>
+				<image>NDE0112B.jpg</image>
+				<audio>NDE0112B.mp3</audio>
+				<viewscript>Kathy: Do you like your work?
+Maria: Yes, I do. It's a very good job. I like it a lot.
+Kathy: What about your salary? Do you have a good salary?
+Maria: It's pretty high, but I work very hard.
+Kathy: How many hours do you work?
+Maria: I work about 10 hours a day.
+Kathy: You do work hard!
+Maria: Yes, but I love the work!</viewscript>
+				<comprehension>
+					<type>audioandtext</type>
+					<comprehensionitem id="1">
+						<question>NDE0112B_Q1.mp3|How is Maria's salary?</question>
+						<option>It's not very high.</option>
+						<option>It's pretty high.</option>
+						<option>It's low.</option>
+						<answer>It's pretty high.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>NDE0112B_Q2.mp3|How many hours a day does she work?</question>
+						<option>about 10 hours a day</option>
+						<option>every day</option>
+						<option>She doesn't work very hard.</option>
+						<answer>about 10 hours a day</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>NDE0112B_Q3.mp3|Does she enjoy the work?</question>
+						<option>It's too hard.</option>
+						<option>No, she doesn't. </option>
+						<option>It's hard but she likes it.</option>
+						<answer>It's hard but she likes it.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>sentencebuilder</type>
+					<grammaritem id="1">
+						<option>have</option>
+						<option>you</option>
+						<option>Do</option>
+						<option>a</option>
+						<option>good</option>
+						<option>salary?</option>
+						<answer>Do you have a good salary?</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<option>How</option>
+						<option>hours</option>
+						<option>many</option>
+						<option>do</option>
+						<option>you</option>
+						<option>work?</option>
+						<answer>How many hours do you work?</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<option>I</option>
+						<option>about</option>
+						<option>10 hours</option>	
+						<option>work</option>
+						<option>a day.</option>
+						<answer>I work about 10 hours a day.</answer>
+					</grammaritem>
+				</grammar>		
+		</lessonitem>
+			<lessonitem id="3">
+				<title>Lesson C</title>
+				<image>NDE0112C.jpg</image>
+				<audio>NDE0112C.mp3</audio>
+				<viewscript>Caller: Maria. Could you tell us about your family?
+Maria: Well, I'm divorced, and I have three children.
+Caller: Do they live with you?
+Maria: Yes, they do.
+Caller: What are their names?
+Maria: Alma, Josh, and Ehren.
+Caller: Excuse me? Could you say that again?
+Maria: Certainly. Alma..., Josh... and Ehren.
+Caller: Ehren? How do you spell Ehren?
+Maria: It's E-H-R-E-N.
+Caller: E-A-R-E-N?
+Maria: No... E - H-  R - E - N.
+Caller: Oh, I see. That's a very pretty name.
+Maria: Thank you.
+Caller: Is Ehren a boy or a girl?
+Maria: She's a girl. My son's name is Josh.
+Caller: I see. How old are your children?
+Maria: Alma is twelve, Josh is seven, and Ehren is three.
+Caller: Twelve, seven, and three.
+Maria: That's right.</viewscript>
+				<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Is Maria married?</question>
+						<option>No, she is divorced.</option>
+						<option>Yes, she is.</option>
+						<option>No. She's never been married.</option>
+						<answer>No, she is divorced.</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>How many children does she have?</question>
+						<option>two</option>
+						<option>three</option>
+						<option>two girls and a boy</option>
+						<answer>three</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>Who is Ehren?</question>
+						<option>Maria's son.</option>
+						<option>Maria's 12-year-old daughter</option>
+						<option>Maria's youngest child</option>
+						<answer>Maria's youngest child</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>______ your children live with you?</question>
+						<option>Are</option>
+						<option>Does</option>
+						<option>Do</option>
+						<answer>Do</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>How old are your _________?</question>
+						<option>son</option>
+						<option>daughter</option>
+						<option>children</option>
+						<answer>children</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>My ________ name is Josh.</question>
+						<option>son</option>
+						<option>sons</option>
+						<option>son's</option>
+						<answer>son's</answer>
+					</grammaritem>
+				</grammar>	
+			</lessonitem>
+			<lessonitem id="4">
+				<title>Lesson Bonus</title>
+				<image>NDE0112bonus.jpg</image>
+				<audio>NDE0112_BONUS.mp3</audio>
+				<viewscript>Kent: This is the New Dynamic English Man on the Street, Kent Moss. Today I'm standing in front of the Washington Monument in Washington D.C.
+Kent: That was beautiful!
+Man: Thank you very much.
+Kent: Do you play here every day?
+Man: Yes, I do. I play here in the afternoon before I go to work.
+Kent: Where do you work?
+Man: At a restaurant near here.
+Kent: What do you do?
+Man: I'm a waiter.
+Kent: A waiter? Do you like your job?
+Man: Oh, it's OK. And the pay is good. But I really love playing music.
+Kent: Well, you're an excellent musician.
+Man: Thank you. I don't make much money playing music, but I love it. My girlfriend's also a musician.
+Kent: Oh, what does she play?
+Man: She plays the flute. I play the violin and she plays the flute. We make beautiful music together.
+Kent: Well, I wish both of you the best of luck.
+Man: Thank you. Would you like to hear some more?
+Kent: Please...</viewscript>
+			<comprehension>
+					<type>textonly</type>
+					<comprehensionitem id="1">
+						<question>Where does the man work?</question>
+						<option>at a restaurant</option>
+						<option>with an orchestra</option>
+						<option>at a music store</option>
+						<answer>at a restaurant</answer>
+					</comprehensionitem>
+					<comprehensionitem id="2">
+						<question>What instrument does he play?</question>
+						<option>the flute</option>
+						<option>music</option>
+						<option>the violin</option>
+						<answer>the violin</answer>
+					</comprehensionitem>
+					<comprehensionitem id="3">
+						<question>How does he feel about playing music?</question>
+						<option>He makes lot of money.</option>
+						<option>He wants to be a waiter.</option>
+						<option>He loves it.</option>
+						<answer>He loves it.</answer>
+					</comprehensionitem>
+				</comprehension>
+				<grammar>
+					<type>textonly</type>
+					<grammaritem id="1">
+						<question>I play here in the afternoon _________ I go to work.</question>
+						<option>since</option>
+						<option>before</option>
+						<option>when</option>
+						<answer>before</answer>
+					</grammaritem>
+					<grammaritem id="2">
+						<question>I don't make ______ money playing music.</question>
+						<option>many</option>
+						<option>some</option>
+						<option>much</option>
+						<answer>much</answer>
+					</grammaritem>
+					<grammaritem id="3">
+						<question>I play the violin and she ________ the flute.</question>
+						<option>play</option>
+						<option>plays</option>
+						<option>playing</option>
+						<answer>plays</answer>
+					</grammaritem>
+				</grammar>	
+			</lessonitem>
+		</lesson>
+	</mainlistitem>
+</mainlist>

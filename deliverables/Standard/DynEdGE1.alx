@@ -1,0 +1,41 @@
+<loader version="1.0">
+	<application id="DynEdGE1">
+		<name >
+			General English 1
+		</name>
+		<description >
+			The DynEd Conversations App seris for English learning with key measurements displays in unique graphic formats.
+		</description>
+		<version >
+			1.1.2
+		</version>
+		<vendor >
+			Pistarlabs
+		</vendor>
+		<copyright >
+			Copyright (c) 2014 Pistarlabs
+		</copyright>
+		<fileset Java="1.55" _blackberryVersion="[5.0.0,5.0.1)">
+			<directory >
+				5.0.0
+			</directory>
+			<files >
+				DynEdGE1.cod
+
+			</files>
+
+		</fileset>
+		<fileset Java="1.55" _blackberryVersion="[7.1.0)">
+			<directory >
+				7.1.0
+			</directory>
+			<files >
+				DynEdGE1.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
